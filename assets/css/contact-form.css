@@ -81,7 +81,7 @@ label.fcf-label {
 }
 
 .fcf-credit a:hover {
-  color: #0056b3;
+  color: #0080b3;
   text-decoration: underline;
 }
 
@@ -125,21 +125,21 @@ label.fcf-label {
 
 .fcf-btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #006ead;
+  border-color: #006097;
 }
 
 .fcf-btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #004872;
+  border-color: #00395a;
 }
 
 .fcf-btn-primary:focus,
 .fcf-btn-primary.focus {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #004872;
+  border-color: #00395a;
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
 
